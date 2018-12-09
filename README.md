@@ -2,7 +2,7 @@
 
 ## Semester Two - Fundamentals of Data Analysis
  
-<img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" height="600" width="800"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" height="400" width="400"> 
 
 ###  Box and Whisker plot
 The main purpose of this Jupyter notebook is to investigate and explain box and whisker plot and it's function. The box and whisker plot is a function from the Python package matplotlib.pyplot and can be used to create plots. In this notebook, we will:
