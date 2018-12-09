@@ -19,5 +19,4 @@ To launch Jupyter Notebook App:
 
 1. Click on spotlight, type terminal to open a terminal window.
 2. Enter the startup folder by typing cd /some_folder_name.
-3. Type jupyter notebook to launch the Jupyter Notebook App The notebook interface will appear in a new browser window or tab.[[Steps]]
-(https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
+3. Type jupyter notebook to launch the Jupyter Notebook App The notebook interface will appear in a new browser window or tab.[[Steps]](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
